@@ -1,0 +1,28 @@
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# IDE та редактори
+.vscode/
+.idea/
+.cursor/
+*.swp
+
+# Залежності та збірка
+node_modules/
+dist/
+build/
+*.log
+
+# Python / ШІ середовища
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Конфігурації та секрети
+.env
+.env.local
+.env.*.local
+*.pem
+keys.json
